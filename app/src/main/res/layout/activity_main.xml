@@ -3,9 +3,9 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="375dp"
-    android:layout_height="812dp"
+    android:layout_height="832dp"
     tools:context=".MainActivity"
-
+    android:background="@drawable/bt5"
     >
 
 <ImageView
@@ -116,10 +116,11 @@
         android:layout_marginLeft="95dp"
         />
     <ImageView
-        android:layout_width="375dp"
-        android:layout_height="30dp"
-        android:src="@drawable/d9"
-        android:layout_marginTop="782dp"
+        android:layout_width="134dp"
+        android:layout_height="5dp"
+        android:src="@drawable/r11"
+        android:layout_marginTop="815dp"
+        android:layout_marginLeft="120dp"
         />
     <Button
         android:layout_width="171dp"

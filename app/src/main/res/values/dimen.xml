@@ -4,4 +4,5 @@
     <dimen name="b_2">16sp</dimen>
     <dimen name="b_3">14sp</dimen>
     <dimen name="b_4">13sp</dimen>
+    <dimen name="b_5">20sp</dimen>
 </resources>
